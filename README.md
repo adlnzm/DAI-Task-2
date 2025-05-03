@@ -61,7 +61,7 @@ All categories show a wide spread of profits, with Technology having more positi
 
 ### 4 Scatter Plot: **Sales vs. Profit**
 
-![Scatter Plot](./images/scatter_plot.png)
+![Scatter Plot](./images/scatterplot.png)
 
 **Objective:**
 To identify correlation between sales and profit across products.
